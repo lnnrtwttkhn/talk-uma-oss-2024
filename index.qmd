@@ -120,7 +120,7 @@ The **DataLad Handbook** by @wagner2022 is a comprehensive educational resource 
 :::
 
 ::: {.fragment}
-### 2. Integrating DataLad with MPS infrastructure (and beyond)
+### 2. Integrating DataLad with third-party infrastructure
     
 2.1 Keeper
 
@@ -935,7 +935,7 @@ When files are dropped, only "metadata" stays behind, and files can be re-obtain
 ::::
 :::::
 
-# Data sharing using DataLad and data infrastructure of the Max Planck Society
+# Data sharing using DataLad and third-party data infrastructure
 
 ## Sharing DataLad datasets via Keeper
 
