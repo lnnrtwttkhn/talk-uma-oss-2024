@@ -107,6 +107,7 @@ The **DataLad Handbook** by @wagner2022 is a comprehensive educational resource 
 
 ## Agenda
 
+::: {.fragment}
 ### 1. Scientific workflows with DataLad
     
 1.1 Version Control
@@ -116,7 +117,9 @@ The **DataLad Handbook** by @wagner2022 is a comprehensive educational resource 
 1.3 Provenance
 
 1.4 Collaboration & Interoperability
+:::
 
+::: {.fragment}
 ### 2. Integrating DataLad with MPS infrastructure (and beyond)
     
 2.1 Keeper
@@ -129,7 +132,10 @@ The **DataLad Handbook** by @wagner2022 is a comprehensive educational resource 
 
 2.5 GitLab
 
+:::
+::: {.fragment}
 ### 3. Summary & Discussion
+:::
 
 # Scientific building blocks are not static
 
